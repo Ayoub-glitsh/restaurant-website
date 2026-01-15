@@ -25,7 +25,7 @@ The goal of this project is to showcase clean design, responsive layouts, and a 
 
 ## 📂 Project Structure  
 
-
+```
 restaurant-website/
 │
 ├── index.html        # Main entry point
@@ -33,7 +33,7 @@ restaurant-website/
 │   └── style.css
 ├── /js               # JavaScript files
 │   └── script.js
-
+```
 ## 🚀 Getting Started
 
 Clone the repository:
